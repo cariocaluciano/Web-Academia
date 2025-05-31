@@ -5,7 +5,7 @@ import image from '../assets/images/login-image.png';
 
 export function AuthLayout() {
   return (
-    <div className="flex w-full h-full justify-center items-center gap-8">
+    <div className="flex w-full h-full justify-center items-center gap-48">
       <div className="">
         <img src={image} alt="Login" className="w-full h-full object-cover" />
       </div>
