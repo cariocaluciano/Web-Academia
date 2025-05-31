@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+a {
+  @apply text-green-50 font-semibold transition hover:border-b-2 hover:border-green-50;
+}

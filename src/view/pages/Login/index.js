@@ -45,7 +45,6 @@ export function Login() {
               </span>
               <Link
                 to="/register"
-                className="text-black-800 text-sm font-regular text-decoration-line: underline"
               >
                 Cadastre-se aqui
               </Link>

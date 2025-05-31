@@ -56,12 +56,7 @@ export function Register() {
               <span className="text-black-500 text-sm font-regular">
                 Já possui conta?
               </span>
-              <Link
-                to="/login"
-                className="text-black-800 text-sm font-regular text-decoration-line: underline"
-              >
-                  Entre aqui
-              </Link>
+              <Link to="/login">Entre aqui</Link>
             </p>
           </div>
         </form>
